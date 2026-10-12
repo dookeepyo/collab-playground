@@ -148,3 +148,5 @@ collab-playground/
 ├── INSTRUCTOR.md                   # 강사용 레포 설정
 └── README.md
 ```
+
+안녕하세요 실습자 두기표 입니다
